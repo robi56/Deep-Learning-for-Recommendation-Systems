@@ -46,7 +46,7 @@ Source: https://arxiv.org/abs/1606.07792
 22. A Survey and Critique of Deep Learning on Recommender Systems by Lei Zheng
 Source: http://bdsc.lab.uic.edu/docs/survey-critique-deep.pdf
 
-## Blog
+## Blogs
 1. Deep Learning Meets Recommendation Systems by Wann-Jiun. <br>
 Source: https://blog.nycdatascience.com/student-works/deep-learning-meets-recommendation-systems/
 
