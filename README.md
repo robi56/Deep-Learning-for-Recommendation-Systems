@@ -47,7 +47,7 @@ Source: https://arxiv.org/abs/1606.07792
 Source: http://bdsc.lab.uic.edu/docs/survey-critique-deep.pdf
 
 ## Blog
-1. Deep Learning Meets Recommendation Systems by Wann-Jiun
+1. Deep Learning Meets Recommendation Systems by Wann-Jiun. <br>
 Source: https://blog.nycdatascience.com/student-works/deep-learning-meets-recommendation-systems/
 
 
