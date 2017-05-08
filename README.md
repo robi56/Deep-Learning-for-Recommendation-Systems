@@ -39,6 +39,6 @@ Source: http://www.cse.scu.edu/~yfang/NSPR.pdf
 Source: http://mlrec.org/2017/papers/paper8.pdf
 19. Collaborative Denoising Auto-Encoders for Top-N Recommender Systems by Y Wu. <br>
 Source: http://alicezheng.org/papers/wsdm16-cdae.pdf
-20. Deep Neural Networks for YouTube Recommendations by Paul Covington
+20. Deep Neural Networks for YouTube Recommendations by Paul Covington. <br> 
 Source: https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/45530.pdf
  
