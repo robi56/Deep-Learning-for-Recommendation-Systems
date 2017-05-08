@@ -41,4 +41,14 @@ Source: http://mlrec.org/2017/papers/paper8.pdf
 Source: http://alicezheng.org/papers/wsdm16-cdae.pdf
 20. Deep Neural Networks for YouTube Recommendations by Paul Covington. <br> 
 Source: https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/45530.pdf
+21. Wide & Deep Learning for Recommender Systems by Heng-Tze Cheng.
+Source: https://arxiv.org/abs/1606.07792
+22. A Survey and Critique of Deep Learning on Recommender Systems by Lei Zheng
+Source: http://bdsc.lab.uic.edu/docs/survey-critique-deep.pdf
+
+## Blog
+1. Deep Learning Meets Recommendation Systems by Wann-Jiun
+Source: https://blog.nycdatascience.com/student-works/deep-learning-meets-recommendation-systems/
+
+
  
