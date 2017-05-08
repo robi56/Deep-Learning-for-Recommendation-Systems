@@ -50,5 +50,8 @@ Source: http://bdsc.lab.uic.edu/docs/survey-critique-deep.pdf
 1. Deep Learning Meets Recommendation Systems by Wann-Jiun. <br>
 Source: https://blog.nycdatascience.com/student-works/deep-learning-meets-recommendation-systems/
 
+## Workshops 
+1. 2nd Workshop on Deep Learning for Recommender Systems , 27 August 2017. Como, Italy.<br> 
+Source: http://dlrs-workshop.org
 
  
