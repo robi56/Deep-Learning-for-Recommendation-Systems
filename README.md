@@ -41,11 +41,11 @@ Source: http://mlrec.org/2017/papers/paper8.pdf
 Source: http://alicezheng.org/papers/wsdm16-cdae.pdf
 20. Deep Neural Networks for YouTube Recommendations by Paul Covington. <br> 
 Source: https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/45530.pdf
-21. Wide & Deep Learning for Recommender Systems by Heng-Tze Cheng.
+21. Wide & Deep Learning for Recommender Systems by Heng-Tze Cheng.<br>
 Source: https://arxiv.org/abs/1606.07792
-22. A Survey and Critique of Deep Learning on Recommender Systems by Lei Zheng
+22. A Survey and Critique of Deep Learning on Recommender Systems by Lei Zheng.<br> 
 Source: http://bdsc.lab.uic.edu/docs/survey-critique-deep.pdf
-23. Restricted Boltzmann Machines for Collaborative Filtering by Ruslan Salakhutdinov
+23. Restricted Boltzmann Machines for Collaborative Filtering by Ruslan Salakhutdinov. <br>
 Source: http://www.machinelearning.org/proceedings/icml2007/papers/407.pdf
 ## Blogs
 1. Deep Learning Meets Recommendation Systems by Wann-Jiun. <br>
