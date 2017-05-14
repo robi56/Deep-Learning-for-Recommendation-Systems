@@ -47,6 +47,9 @@ Source: https://arxiv.org/abs/1606.07792
 Source: http://bdsc.lab.uic.edu/docs/survey-critique-deep.pdf
 23. Restricted Boltzmann Machines for Collaborative Filtering by Ruslan Salakhutdinov. <br>
 Source: http://www.machinelearning.org/proceedings/icml2007/papers/407.pdf
+24. Meta-Prod2Vec - Product Embeddings Using Side-Information for Recommendation by Flavian Vasile
+Source: https://arxiv.org/pdf/1607.07326.pdf
+
 ## Blogs
 1. Deep Learning Meets Recommendation Systems by Wann-Jiun. <br>
 Source: https://blog.nycdatascience.com/student-works/deep-learning-meets-recommendation-systems/
