@@ -60,4 +60,8 @@ Source: https://blog.nycdatascience.com/student-works/deep-learning-meets-recomm
 1. 2nd Workshop on Deep Learning for Recommender Systems , 27 August 2017. Como, Italy.<br> 
 Source: http://dlrs-workshop.org
 
+## Software
+1. Spotlight: deep learning recommender systems in PyTorch <br>
+Source: https://github.com/maciejkula/spotlight
+
  
