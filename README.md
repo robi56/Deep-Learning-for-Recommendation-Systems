@@ -64,4 +64,7 @@ Source: http://dlrs-workshop.org
 1. Spotlight: deep learning recommender systems in PyTorch <br>
 Source: https://github.com/maciejkula/spotlight
 
+2. Amazon DSSTNE: deep learning library by amazon (specially for recommended systems i.e. sparse data) <br>
+Source: https://github.com/amzn/amazon-dsstne
+
  
