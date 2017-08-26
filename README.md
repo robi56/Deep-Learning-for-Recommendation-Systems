@@ -52,6 +52,7 @@ Source: https://arxiv.org/pdf/1607.07326.pdf
 25.  Representation Learning and Pairwise Ranking for Implicit and Explicit Feedback in Recommendation Systems by Mikhail Trofimov <br>
 Source: https://arxiv.org/abs/1705.00105
 26. DeepFM: A Factorization-Machine based Neural Network for CTR Prediction. IJCAI2017 <br> Source:  https://arxiv.org/abs/1703.04247 , code (provided by readers): https://github.com/Leavingseason/OpenLearning4DeepRecsys
+27. Collaborative Filtering with Recurrent Neural Networks by Robin Devooght <br> Source:  https://arxiv.org/pdf/1608.07400.pdf
 ## Blogs
 1. Deep Learning Meets Recommendation Systems by Wann-Jiun. <br>
 Source: https://blog.nycdatascience.com/student-works/deep-learning-meets-recommendation-systems/
