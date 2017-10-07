@@ -53,6 +53,7 @@ Source: https://arxiv.org/pdf/1607.07326.pdf
 Source: https://arxiv.org/abs/1705.00105
 26. DeepFM: A Factorization-Machine based Neural Network for CTR Prediction. IJCAI2017 <br> Source:  https://arxiv.org/abs/1703.04247 , code (provided by readers): https://github.com/Leavingseason/OpenLearning4DeepRecsys
 27. Collaborative Filtering with Recurrent Neural Networks by Robin Devooght <br> Source:  https://arxiv.org/pdf/1608.07400.pdf
+
 ## Blogs
 1. Deep Learning Meets Recommendation Systems by Wann-Jiun. <br>
 Source: https://blog.nycdatascience.com/student-works/deep-learning-meets-recommendation-systems/
@@ -60,6 +61,10 @@ Source: https://blog.nycdatascience.com/student-works/deep-learning-meets-recomm
 ## Workshops 
 1. 2nd Workshop on Deep Learning for Recommender Systems , 27 August 2017. Como, Italy.<br> 
 Source: http://dlrs-workshop.org
+
+## Tutorials
+1. Deep Learning for Recommender Systems by Balázs Hidasi. [RecSys Summer School](http://pro.unibz.it/projects/schoolrecsys17/program.html), 21-25 August, 2017, Bozen-Bolzano. [Slides](https://www.slideshare.net/balazshidasi/deep-learning-in-recommender-systems-recsys-summer-school-2017)
+2. Deep Learning for Recommender Systems by Alexandros	Karatzoglou and Balázs	Hidasi. RecSys2017 Tutorial. [Slides](https://www.slideshare.net/kerveros99/deep-learning-for-recommender-systems-recsys2017-tutorial)
 
 ## Software
 1. Spotlight: deep learning recommender systems in PyTorch <br>
