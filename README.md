@@ -1,6 +1,8 @@
 # Deep-Learning-for-Recommendation-Systems
 This repository contains Deep Learning based Articles , Papers and Repositories for Recommendation Systems.
 ## Papers
+
+
 ### General Neural Network
 1. CONTENT-AWARE COLLABORATIVE MUSIC RECOMMENDATION USING PRE-TRAINED NEURAL NETWORKS by D Liang et al. ISMIR 2015 <br>
 Source: http://ismir2015.uma.es/articles/290_Paper.pdf
@@ -18,6 +20,9 @@ Source: http://www.cse.scu.edu/~yfang/NSPR.pdf
 Source: https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/45530.pdf
 8. Wide & Deep Learning for Recommender Systems by Heng-Tze Cheng. DLRS 2016 <br>
 Source: https://arxiv.org/abs/1606.07792
+9. DeepFM: A Factorization-Machine based Neural Network for CTR Prediction. IJCAI2017 <br> 
+Source:  https://arxiv.org/abs/1703.04247 , code (provided by readers): https://github.com/Leavingseason/OpenLearning4DeepRecsys
+
 
 ### Convolutional Neural Network
 1. Deep content-based music recommendation by Aaron van den Oord. NIPS 2013 <br>
@@ -31,6 +36,7 @@ Source: http://dm.postech.ac.kr/~cartopy/ConvMF/, Code: https://github.com/carto
 5. Representation Learning of Users and Items for Review Rating Prediction Using Attention-based Convolutional Neural Network by S Seo. <br> 
 Source: http://mlrec.org/2017/papers/paper8.pdf
 
+
 ### Recurrent Neural Network
 1. Collaborative Recurrent Neural Networks for Dynamic Recommender Systems by Young-Jun Ko. ACML 2016 <br>
 Source: http://proceedings.mlr.press/v63/ko101.pdf
@@ -42,6 +48,7 @@ Source: https://arxiv.org/pdf/1609.02116.pdf
 Source: https://arxiv.org/abs/1705.00105
 5. Collaborative Filtering with Recurrent Neural Networks by Robin Devooght. arXiv 2017 <br>
 Source:  https://arxiv.org/pdf/1608.07400.pdf
+
 
 ### Auto-encoder
 1. Hybrid Recommender System based on Autoencoders by Florian Strub. DLRS 2016 <br>
@@ -60,10 +67,10 @@ Source: http://papers.nips.cc/paper/6163-collaborative-recurrent-autoencoder-rec
 Source: http://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/download/11914/11576
 
 
- 
 ### Restricted Boltzmann Machines
 1. Restricted Boltzmann Machines for Collaborative Filtering by Ruslan Salakhutdinov. ICML 2007 <br>
 Source: http://www.machinelearning.org/proceedings/icml2007/papers/407.pdf
+
 
 ### Neural Autoregressive Distribution Estimator
 1. A Neural Autoregressive Approach to Collaborative Filtering by Yin Zheng et all. ICML 2016 <br>
@@ -71,15 +78,13 @@ Source: http://proceedings.mlr.press/v48/zheng16.pdf
 2. Collaborative Filtering with User-Item Co-Autoregressive Models by Chao Du et all. AAAI 2018 <br>
 Source: 
 
+
 ### Word2Vec
 1. Meta-Prod2Vec - Product Embeddings Using Side-Information for Recommendation by Flavian Vasile. RecSys 2016 <br>
 Source: https://arxiv.org/pdf/1607.07326.pdf
 2. Embedding Factorization Models for Jointly Recommending Items and User Generated Lists by Da Cao et al. SIGIR 2017 <br>
 Source: https://dl.acm.org/citation.cfm?id=3080779
 
-### Factorization Machine
-1. DeepFM: A Factorization-Machine based Neural Network for CTR Prediction. IJCAI2017 <br> 
-Source:  https://arxiv.org/abs/1703.04247 , code (provided by readers): https://github.com/Leavingseason/OpenLearning4DeepRecsys
 
 ### Survey
 1. A Survey and Critique of Deep Learning on Recommender Systems by Lei Zheng. <br> 
