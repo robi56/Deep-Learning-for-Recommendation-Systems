@@ -46,13 +46,14 @@ Source: https://arxiv.org/abs/1606.07792
 22. A Survey and Critique of Deep Learning on Recommender Systems by Lei Zheng.<br> 
 Source: http://bdsc.lab.uic.edu/docs/survey-critique-deep.pdf
 23. Restricted Boltzmann Machines for Collaborative Filtering by Ruslan Salakhutdinov. <br>
-Source: http://www.machinelearning.org/proceedings/icml2007/papers/407.pdf
+Source: http://www.machinelearning.org/proceedings/icml2007/papers/407.pdf , Code: https://github.com/felipecruz/CFRBM
 24. Meta-Prod2Vec - Product Embeddings Using Side-Information for Recommendation by Flavian Vasile. <br>
 Source: https://arxiv.org/pdf/1607.07326.pdf
 25.  Representation Learning and Pairwise Ranking for Implicit and Explicit Feedback in Recommendation Systems by Mikhail Trofimov <br>
 Source: https://arxiv.org/abs/1705.00105
-26. DeepFM: A Factorization-Machine based Neural Network for CTR Prediction. IJCAI2017 <br> Source:  https://arxiv.org/abs/1703.04247 , code (provided by readers): https://github.com/Leavingseason/OpenLearning4DeepRecsys
+26. DeepFM: A Factorization-Machine based Neural Network for CTR Prediction. IJCAI2017 <br> Source:  https://arxiv.org/abs/1703.04247 , Code (provided by readers): https://github.com/Leavingseason/OpenLearning4DeepRecsys
 27. Collaborative Filtering with Recurrent Neural Networks by Robin Devooght <br> Source:  https://arxiv.org/pdf/1608.07400.pdf
+28. Training Deep AutoEncoders for Collaborative Filtering by Oleksii Kuchaiev, Boris Ginsburg. <br> Source: https://arxiv.org/abs/1708.01715 , Code: https://github.com/NVIDIA/DeepRecommender
 
 ## Blogs
 1. Deep Learning Meets Recommendation Systems by Wann-Jiun. <br>
@@ -65,6 +66,8 @@ Source: http://dlrs-workshop.org
 ## Tutorials
 1. Deep Learning for Recommender Systems by Balázs Hidasi. [RecSys Summer School](http://pro.unibz.it/projects/schoolrecsys17/program.html), 21-25 August, 2017, Bozen-Bolzano. [Slides](https://www.slideshare.net/balazshidasi/deep-learning-in-recommender-systems-recsys-summer-school-2017)
 2. Deep Learning for Recommender Systems by Alexandros	Karatzoglou and Balázs	Hidasi. RecSys2017 Tutorial. [Slides](https://www.slideshare.net/kerveros99/deep-learning-for-recommender-systems-recsys2017-tutorial)
+3. Introduction to recommender Systems by Miguel González-Fierro. [Link](https://github.com/miguelgfierro/sciblog_support/blob/master/Intro_to_Recommendation_Systems/Intro_Recommender.ipynb)
+4. Collaborative Filtering using a RBM by Big Data University. [Link](https://github.com/santipuch590/deeplearning-tf/blob/master/dl_tf_BDU/4.RBM/ML0120EN-4.2-Review-CollaborativeFilteringwithRBM.ipynb)
 
 ## Software
 1. Spotlight: deep learning recommender systems in PyTorch <br>
