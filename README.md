@@ -54,6 +54,8 @@ Source: https://arxiv.org/abs/1705.00105
 26. DeepFM: A Factorization-Machine based Neural Network for CTR Prediction. IJCAI2017 <br> Source:  https://arxiv.org/abs/1703.04247 , Code (provided by readers): https://github.com/Leavingseason/OpenLearning4DeepRecsys
 27. Collaborative Filtering with Recurrent Neural Networks by Robin Devooght <br> Source:  https://arxiv.org/pdf/1608.07400.pdf
 28. Training Deep AutoEncoders for Collaborative Filtering by Oleksii Kuchaiev, Boris Ginsburg. <br> Source: https://arxiv.org/abs/1708.01715 , Code: https://github.com/NVIDIA/DeepRecommender
+29. Collaborative Variational Autoencoder for Recommender
+Systems by Xiaopeng Li and James She <br> Source: http://eelxpeng.github.io/assets/paper/Collaborative_Variational_Autoencoder.pdf, Code: https://github.com/eelxpeng/CollaborativeVAE
 
 ## Blogs
 1. Deep Learning Meets Recommendation Systems by Wann-Jiun. <br>
