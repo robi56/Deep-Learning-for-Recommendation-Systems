@@ -56,6 +56,7 @@ Source: https://arxiv.org/abs/1705.00105
 28. Training Deep AutoEncoders for Collaborative Filtering by Oleksii Kuchaiev, Boris Ginsburg. <br> Source: https://arxiv.org/abs/1708.01715 , Code: https://github.com/NVIDIA/DeepRecommender
 29. Collaborative Variational Autoencoder for Recommender
 Systems by Xiaopeng Li and James She <br> Source: http://eelxpeng.github.io/assets/paper/Collaborative_Variational_Autoencoder.pdf, Code: https://github.com/eelxpeng/CollaborativeVAE
+30. Variational Autoencoders for Collaborative Filtering by Dawen Liang, Rahul G. Krishnan, Matthew D. Hoffman and Tony Jebara <br> Source: https://arxiv.org/pdf/1802.05814.pdf, Code: https://github.com/dawenl/vae_cf
 
 ## Blogs
 1. Deep Learning Meets Recommendation Systems by Wann-Jiun. <br>
