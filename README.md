@@ -38,7 +38,7 @@ Source: http://www.cse.scu.edu/~yfang/NSPR.pdf
 18. Representation Learning of Users and Items for Review Rating Prediction Using Attention-based Convolutional Neural Network by S Seo. <br> 
 Source: http://mlrec.org/2017/papers/paper8.pdf
 19. Collaborative Denoising Auto-Encoders for Top-N Recommender Systems by Y Wu. <br>
-Source: http://alicezheng.org/papers/wsdm16-cdae.pdf
+Source: http://alicezheng.org/papers/wsdm16-cdae.pdf, Code: https://github.com/jasonyaw/CDAE
 20. Deep Neural Networks for YouTube Recommendations by Paul Covington. <br> 
 Source: https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/45530.pdf
 21. Wide & Deep Learning for Recommender Systems by Heng-Tze Cheng.<br>
