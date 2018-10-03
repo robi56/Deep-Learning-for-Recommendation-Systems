@@ -57,7 +57,9 @@ Source: https://arxiv.org/abs/1705.00105
 29. Collaborative Variational Autoencoder for Recommender
 Systems by Xiaopeng Li and James She <br> Source: http://eelxpeng.github.io/assets/paper/Collaborative_Variational_Autoencoder.pdf, Code: https://github.com/eelxpeng/CollaborativeVAE
 30. Variational Autoencoders for Collaborative Filtering by Dawen Liang, Rahul G. Krishnan, Matthew D. Hoffman and Tony Jebara <br> Source: https://arxiv.org/pdf/1802.05814.pdf, Code: https://github.com/dawenl/vae_cf
-31. Neural Collaborative Filtering by Xiangnan He et. al. Source: https://arxiv.org/abs/1708.05031
+31. Neural Collaborative Filtering by Xiangnan He, Lizi Liao, Hanwang Zhang, Liqiang Nie, Xia Hu and Tat-Seng Chua <br> Source: https://www.comp.nus.edu.sg/~xiangnan/papers/ncf.pdf , Code : https://github.com/hexiangnan/neural_collaborative_filtering
+ Source: https://arxiv.org/abs/1708.05031
+
 
 ## Blogs
 1. Deep Learning Meets Recommendation Systems by Wann-Jiun. <br>
