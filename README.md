@@ -82,4 +82,7 @@ Source: https://github.com/maciejkula/spotlight
 2. Amazon DSSTNE: deep learning library by amazon (specially for recommended systems i.e. sparse data) <br>
 Source: https://github.com/amzn/amazon-dsstne
 
+3. Recoder: Large scale training of factorization models for Collaborative Filtering with PyTorch <br>
+Source: https://github.com/amoussawi/recoder
+
  
