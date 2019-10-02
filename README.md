@@ -1,3 +1,4 @@
+
 # Deep-Learning-for-Recommendation-Systems
 This repository contains Deep Learning based Articles , Papers and Repositories for Recommendation Systems.
 ## Papers
@@ -59,21 +60,37 @@ Systems by Xiaopeng Li and James She <br> Source: http://eelxpeng.github.io/asse
 30. Variational Autoencoders for Collaborative Filtering by Dawen Liang, Rahul G. Krishnan, Matthew D. Hoffman and Tony Jebara <br> Source: https://arxiv.org/pdf/1802.05814.pdf, Code: https://github.com/dawenl/vae_cf
 31. Neural Collaborative Filtering by Xiangnan He, Lizi Liao, Hanwang Zhang, Liqiang Nie, Xia Hu and Tat-Seng Chua <br> Source: https://www.comp.nus.edu.sg/~xiangnan/papers/ncf.pdf , Code : https://github.com/hexiangnan/neural_collaborative_filtering
  Source: https://arxiv.org/abs/1708.05031
+32. Deep Session Interest Network for Click-Through Rate Prediction , Code : https://github.com/shenweichen/DeepCTR 
+Source: https://arxiv.org/pdf/1905.06482v1.pdf
+33. AutoInt: Automatic Feature Interaction Learning via Self-Attentive Neural Networks, Code: https://github.com/shichence/AutoInt 
+Source: https://arxiv.org/pdf/1810.11921v2.pdf
+34. Product-based Neural Networks for User Response Prediction over Multi-field Categorical Data, Code: https://github.com/Atomu2014/product-nets-distributed
+Source: https://arxiv.org/abs/1807.00311
 
 
 ## Blogs
 1. Deep Learning Meets Recommendation Systems by Wann-Jiun. <br>
 Source: https://blog.nycdatascience.com/student-works/deep-learning-meets-recommendation-systems/
+2. Machine Learning for Recommender systems
+Source: https://medium.com/recombee-blog/machine-learning-for-recommender-systems-part-1-algorithms-evaluation-and-cold-start-6f696683d0ed
+3. Check out our new client-side integration support and deploy personalized recommendations faster
+Source: https://medium.com/recombee-blog/check-out-our-new-client-side-integration-support-and-deploy-personalized-recommendations-faster-7dd7bf5b6241
+
 
 ## Workshops 
 1. 2nd Workshop on Deep Learning for Recommender Systems , 27 August 2017. Como, Italy.<br> 
 Source: http://dlrs-workshop.org
+2. THE AAAI-19 WORKSHOP ON RECOMMENDER SYSTEMS AND NATURAL LANGUAGE PROCESSING (RECNLP)
+Source: https://recnlp2019.github.io/
+3. The 4th Workshop on Health Recommender Systems co-located with ACM RecSys 2019
+Source: https://healthrecsys.github.io/2019/
 
 ## Tutorials
 1. Deep Learning for Recommender Systems by Balázs Hidasi. [RecSys Summer School](http://pro.unibz.it/projects/schoolrecsys17/program.html), 21-25 August, 2017, Bozen-Bolzano. [Slides](https://www.slideshare.net/balazshidasi/deep-learning-in-recommender-systems-recsys-summer-school-2017)
 2. Deep Learning for Recommender Systems by Alexandros	Karatzoglou and Balázs	Hidasi. RecSys2017 Tutorial. [Slides](https://www.slideshare.net/kerveros99/deep-learning-for-recommender-systems-recsys2017-tutorial)
 3. Introduction to recommender Systems by Miguel González-Fierro. [Link](https://github.com/miguelgfierro/sciblog_support/blob/master/Intro_to_Recommendation_Systems/Intro_Recommender.ipynb)
 4. Collaborative Filtering using a RBM by Big Data University. [Link](https://github.com/santipuch590/deeplearning-tf/blob/master/dl_tf_BDU/4.RBM/ML0120EN-4.2-Review-CollaborativeFilteringwithRBM.ipynb)
+5. Building a Recommendation System in TensorFlow: Overview. [Link](https://cloud.google.com/solutions/machine-learning/recommendation-system-tensorflow-overview)
 
 ## Software
 1. Spotlight: deep learning recommender systems in PyTorch <br>
@@ -84,5 +101,16 @@ Source: https://github.com/amzn/amazon-dsstne
 
 3. Recoder: Large scale training of factorization models for Collaborative Filtering with PyTorch <br>
 Source: https://github.com/amoussawi/recoder
+
+4. PredictionIO is built on technologies Apache Spark, Apache HBase and Spray. It is a machine learning server that can be used to create a recommender system. The source can be located on github and it looks very active. 
+Source: https://github.com/apache/predictionio
+5. Spotlight utilizes factorization model and sequence model in the back end for building a basic recommendation system. It's a well-implemented Python framework.
+Source: https://github.com/maciejkula/spotlight
+
+## Books
+1. Practical Recommender Systems by Kim Falk (Manning Publications). Chapter 1 
+Source: https://www.manning.com/books/practical-recommender-systems
+2. Recommender Systems Handbook by Ricci, F. et al.
+Source: https://dl.acm.org/citation.cfm?id=1941884
 
  
