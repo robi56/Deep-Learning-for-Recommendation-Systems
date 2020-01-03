@@ -93,7 +93,7 @@ Source: https://healthrecsys.github.io/2019/
 5. Building a Recommendation System in TensorFlow: Overview. [Link](https://cloud.google.com/solutions/machine-learning/recommendation-system-tensorflow-overview)
 
 ## Software
-1. Spotlight: deep learning recommender systems in PyTorch <br>
+1. Spotlight: deep learning recommender systems in PyTorch that utilizes factorization model and sequence model in the back end <br>
 Source: https://github.com/maciejkula/spotlight
 
 2. Amazon DSSTNE: deep learning library by amazon (specially for recommended systems i.e. sparse data) <br>
@@ -104,8 +104,6 @@ Source: https://github.com/amoussawi/recoder
 
 4. PredictionIO is built on technologies Apache Spark, Apache HBase and Spray. It is a machine learning server that can be used to create a recommender system. The source can be located on github and it looks very active. 
 Source: https://github.com/apache/predictionio
-5. Spotlight utilizes factorization model and sequence model in the back end for building a basic recommendation system. It's a well-implemented Python framework.
-Source: https://github.com/maciejkula/spotlight
 
 ## Books
 1. Practical Recommender Systems by Kim Falk (Manning Publications). Chapter 1 
