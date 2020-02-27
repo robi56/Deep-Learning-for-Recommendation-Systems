@@ -2,69 +2,76 @@
 # Deep-Learning-for-Recommendation-Systems
 This repository contains Deep Learning based Articles , Papers and Repositories for Recommendation Systems.
 ## Papers
-1. Convolutional Matrix Factorization for Document Context-Aware Recommendation by Donghyun Kim, Chanyoung Park, Jinoh Oh, Seungyong Lee, Hwanjo Yu, RecSys 2016.<br>
+
+1. Relational Stacked Denoising Autoencoder for Tag Recommendation by Hao Wang, Xingjian Shi, and Dit-Yan Yeung. AAAI 2015 <br>
+Source:  http://wanghao.in/paper/AAAI15_RSDAE.pdf
+2. Collaborative Deep Learning for Recommender Systems by Hao Wang, Naiyan Wang, and Dit-Yan Yeung. KDD 2015 <br>
+Source: http://wanghao.in/CDL.htm, Code: https://github.com/js05212/CDL
+3. Collaborative Recurrent Autoencoder: Recommend while Learning to Fill in the Blanks by Hao Wang, Xingjian Shi, and Dit-Yan Yeung. NIPS 2016 <br>
+Source: https://papers.nips.cc/paper/6163-collaborative-recurrent-autoencoder-recommend-while-learning-to-fill-in-the-blanks
+4. Convolutional Matrix Factorization for Document Context-Aware Recommendation by Donghyun Kim, Chanyoung Park, Jinoh Oh, Seungyong Lee, Hwanjo Yu, RecSys 2016.<br>
 Source: http://dm.postech.ac.kr/~cartopy/ConvMF/, Code: https://github.com/cartopy/ConvMF
-2. A Neural Autoregressive Approach to Collaborative Filtering by Yin Zheng et all.<br>
+5. A Neural Autoregressive Approach to Collaborative Filtering by Yin Zheng et all.<br>
 Source: http://proceedings.mlr.press/v48/zheng16.pdf
-3. Collaborative Recurrent Neural Networks for Dynamic Recommender Systems by Young-Jun Ko. ACML 2016 <br>
+6. Collaborative Recurrent Neural Networks for Dynamic Recommender Systems by Young-Jun Ko. ACML 2016 <br>
 Source: http://proceedings.mlr.press/v63/ko101.pdf
-4. Hybrid Recommender System based on Autoencoders by Florian Strub . 2016 <br>
+7. Hybrid Recommender System based on Autoencoders by Florian Strub . 2016 <br>
 Source: https://arxiv.org/pdf/1606.07659.pdf
-5. Deep content-based music recommendation by Aaron van den Oord. <br>
+8. Deep content-based music recommendation by Aaron van den Oord. <br>
 Source: https://papers.nips.cc/paper/5004-deep-content-based-music-recommendation.pdf
-6. DeepPlaylist: Using Recurrent Neural Networks to Predict Song Similarity by Anusha Balakrishnan. <br>
+9. DeepPlaylist: Using Recurrent Neural Networks to Predict Song Similarity by Anusha Balakrishnan. <br>
 Source: https://cs224d.stanford.edu/reports/BalakrishnanDixit.pdf
-7.  Hybrid music recommender using content-based and social information by  Paulo Chiliguano .<br>
+10.  Hybrid music recommender using content-based and social information by  Paulo Chiliguano .<br>
 Source: http://ieeexplore.ieee.org/document/7472151
-8. CONTENT-AWARE COLLABORATIVE MUSIC RECOMMENDATION USING PRE-TRAINED NEURAL NETWORKS. <br>
+11. CONTENT-AWARE COLLABORATIVE MUSIC RECOMMENDATION USING PRE-TRAINED NEURAL NETWORKS. <br>
 Source: http://ismir2015.uma.es/articles/290_Paper.pdf
-9.  TransNets: Learning to Transform for Recommendation  by Rose Catherine. <br>
+12.  TransNets: Learning to Transform for Recommendation  by Rose Catherine. <br>
 Source: https://arxiv.org/abs/1704.02298 
-10. Learning Distributed Representations from Reviews for Collaborative Filtering by  	Amjad Almahairi. <br> 	
+13. Learning Distributed Representations from Reviews for Collaborative Filtering by  	Amjad Almahairi. <br> 	
 Source: http://dl.acm.org/citation.cfm?id=2800192
-11. Ask the GRU: Multi-task Learning for Deep Text Recommendations by T Bansal. <br> 
+14. Ask the GRU: Multi-task Learning for Deep Text Recommendations by T Bansal. <br> 
 Source: https://arxiv.org/pdf/1609.02116.pdf
-12.   A Multi-View Deep Learning Approach for Cross Domain User Modeling in Recommendation Systems by Ali Mamdouh Elkahky.<br>
+15.   A Multi-View Deep Learning Approach for Cross Domain User Modeling in Recommendation Systems by Ali Mamdouh Elkahky.<br>
 Source: http://sonyis.me/paperpdf/frp1159-songA-www-2015.pdf
-13. Deep collaborative filtering via marginalized denoising auto-encoder by S Li.<br>
+16. Deep collaborative filtering via marginalized denoising auto-encoder by S Li.<br>
 Source: https://pdfs.semanticscholar.org/ff29/2f00055d8221c42d4831679db9d3872b6fbd.pdf
-14. Joint deep modeling of users and items using reviews for recommendation by L Zheng. <br>
+17. Joint deep modeling of users and items using reviews for recommendation by L Zheng. <br>
 Source: https://arxiv.org/pdf/1701.04783
-15. Hybrid Collaborative Filtering with Neural Networks by Strub 
+18. Hybrid Collaborative Filtering with Neural Networks by Strub 
 Source: https://pdfs.semanticscholar.org/fcbd/179590c30127cafbd00fd7087b47818406bc.pdf
-16. Trust-aware Top-N Recommender Systems with Correlative Denoising Autoencoder by Y Pan. <br> 
+19. Trust-aware Top-N Recommender Systems with Correlative Denoising Autoencoder by Y Pan. <br> 
 Source: https://arxiv.org/pdf/1703.01760
-17. Neural Semantic Personalized Ranking for item cold-start recommendation by T Ebesu . <br>
+20. Neural Semantic Personalized Ranking for item cold-start recommendation by T Ebesu . <br>
 Source: http://www.cse.scu.edu/~yfang/NSPR.pdf
-18. Representation Learning of Users and Items for Review Rating Prediction Using Attention-based Convolutional Neural Network by S Seo. <br> 
+21. Representation Learning of Users and Items for Review Rating Prediction Using Attention-based Convolutional Neural Network by S Seo. <br> 
 Source: http://mlrec.org/2017/papers/paper8.pdf
-19. Collaborative Denoising Auto-Encoders for Top-N Recommender Systems by Y Wu. <br>
+22. Collaborative Denoising Auto-Encoders for Top-N Recommender Systems by Y Wu. <br>
 Source: http://alicezheng.org/papers/wsdm16-cdae.pdf, Code: https://github.com/jasonyaw/CDAE
-20. Deep Neural Networks for YouTube Recommendations by Paul Covington. <br> 
+23. Deep Neural Networks for YouTube Recommendations by Paul Covington. <br> 
 Source: https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/45530.pdf
-21. Wide & Deep Learning for Recommender Systems by Heng-Tze Cheng.<br>
+24. Wide & Deep Learning for Recommender Systems by Heng-Tze Cheng.<br>
 Source: https://arxiv.org/abs/1606.07792
-22. A Survey and Critique of Deep Learning on Recommender Systems by Lei Zheng.<br> 
+25. A Survey and Critique of Deep Learning on Recommender Systems by Lei Zheng.<br> 
 Source: http://bdsc.lab.uic.edu/docs/survey-critique-deep.pdf
-23. Restricted Boltzmann Machines for Collaborative Filtering by Ruslan Salakhutdinov. <br>
+26. Restricted Boltzmann Machines for Collaborative Filtering by Ruslan Salakhutdinov. <br>
 Source: http://www.machinelearning.org/proceedings/icml2007/papers/407.pdf , Code: https://github.com/felipecruz/CFRBM
-24. Meta-Prod2Vec - Product Embeddings Using Side-Information for Recommendation by Flavian Vasile. <br>
+27. Meta-Prod2Vec - Product Embeddings Using Side-Information for Recommendation by Flavian Vasile. <br>
 Source: https://arxiv.org/pdf/1607.07326.pdf
-25.  Representation Learning and Pairwise Ranking for Implicit and Explicit Feedback in Recommendation Systems by Mikhail Trofimov <br>
+28.  Representation Learning and Pairwise Ranking for Implicit and Explicit Feedback in Recommendation Systems by Mikhail Trofimov <br>
 Source: https://arxiv.org/abs/1705.00105
-26. DeepFM: A Factorization-Machine based Neural Network for CTR Prediction. IJCAI2017 <br> Source:  https://arxiv.org/abs/1703.04247 , Code (provided by readers): https://github.com/Leavingseason/OpenLearning4DeepRecsys
-27. Collaborative Filtering with Recurrent Neural Networks by Robin Devooght <br> Source:  https://arxiv.org/pdf/1608.07400.pdf
-28. Training Deep AutoEncoders for Collaborative Filtering by Oleksii Kuchaiev, Boris Ginsburg. <br> Source: https://arxiv.org/abs/1708.01715 , Code: https://github.com/NVIDIA/DeepRecommender
-29. Collaborative Variational Autoencoder for Recommender
+29. DeepFM: A Factorization-Machine based Neural Network for CTR Prediction. IJCAI2017 <br> Source:  https://arxiv.org/abs/1703.04247 , Code (provided by readers): https://github.com/Leavingseason/OpenLearning4DeepRecsys
+30. Collaborative Filtering with Recurrent Neural Networks by Robin Devooght <br> Source:  https://arxiv.org/pdf/1608.07400.pdf
+31. Training Deep AutoEncoders for Collaborative Filtering by Oleksii Kuchaiev, Boris Ginsburg. <br> Source: https://arxiv.org/abs/1708.01715 , Code: https://github.com/NVIDIA/DeepRecommender
+32. Collaborative Variational Autoencoder for Recommender
 Systems by Xiaopeng Li and James She <br> Source: http://eelxpeng.github.io/assets/paper/Collaborative_Variational_Autoencoder.pdf, Code: https://github.com/eelxpeng/CollaborativeVAE
-30. Variational Autoencoders for Collaborative Filtering by Dawen Liang, Rahul G. Krishnan, Matthew D. Hoffman and Tony Jebara <br> Source: https://arxiv.org/pdf/1802.05814.pdf, Code: https://github.com/dawenl/vae_cf
-31. Neural Collaborative Filtering by Xiangnan He, Lizi Liao, Hanwang Zhang, Liqiang Nie, Xia Hu and Tat-Seng Chua <br> Source: https://www.comp.nus.edu.sg/~xiangnan/papers/ncf.pdf , Code : https://github.com/hexiangnan/neural_collaborative_filtering
+33. Variational Autoencoders for Collaborative Filtering by Dawen Liang, Rahul G. Krishnan, Matthew D. Hoffman and Tony Jebara <br> Source: https://arxiv.org/pdf/1802.05814.pdf, Code: https://github.com/dawenl/vae_cf
+34. Neural Collaborative Filtering by Xiangnan He, Lizi Liao, Hanwang Zhang, Liqiang Nie, Xia Hu and Tat-Seng Chua <br> Source: https://www.comp.nus.edu.sg/~xiangnan/papers/ncf.pdf , Code : https://github.com/hexiangnan/neural_collaborative_filtering
  Source: https://arxiv.org/abs/1708.05031
-32. Deep Session Interest Network for Click-Through Rate Prediction , Code : https://github.com/shenweichen/DeepCTR 
+35. Deep Session Interest Network for Click-Through Rate Prediction , Code : https://github.com/shenweichen/DeepCTR 
 Source: https://arxiv.org/pdf/1905.06482v1.pdf
-33. AutoInt: Automatic Feature Interaction Learning via Self-Attentive Neural Networks, Code: https://github.com/shichence/AutoInt 
+36. AutoInt: Automatic Feature Interaction Learning via Self-Attentive Neural Networks, Code: https://github.com/shichence/AutoInt 
 Source: https://arxiv.org/pdf/1810.11921v2.pdf
-34. Product-based Neural Networks for User Response Prediction over Multi-field Categorical Data, Code: https://github.com/Atomu2014/product-nets-distributed
+37. Product-based Neural Networks for User Response Prediction over Multi-field Categorical Data, Code: https://github.com/Atomu2014/product-nets-distributed
 Source: https://arxiv.org/abs/1807.00311
 
 
